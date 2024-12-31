@@ -1,2 +1,2 @@
 # datasciencetweaks
-This repository includes small projects, ideas that require minimal effort and are fun to create and enjoy. 
+This repository collects small projects of mine that organize and manipulate datasets to make nice visualizations. 
